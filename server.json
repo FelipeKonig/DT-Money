@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-12-31T18:08:10.131Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-12-07T04:34:10.846Z",
+      "id": 4
+    },
+    {
+      "description": "Frango",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-07T04:38:12.245Z",
+      "id": 5
+    },
+    {
+      "description": "Whey",
+      "price": 250,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-07T04:47:40.699Z",
+      "id": 6
     }
-  ] 
+  ]
 }
